@@ -24,6 +24,7 @@ img {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  align-items: center;
   padding: 1.5rem 0;
 }
 
@@ -50,6 +51,7 @@ img {
 
 .social {
   display: flex;
+  margin-left: auto;
   padding: 0 1rem;
 }
 
