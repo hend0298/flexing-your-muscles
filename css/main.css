@@ -23,9 +23,43 @@ img {
   color: #005e76;
   display: flex;
   justify-content: space-between;
-  padding: 1em 0;
+  flex-wrap: wrap;
+  padding: 1.5rem 0;
 }
 
 .social > li {
+  margin: 0 .5rem;
   width: 3em;
 }
+
+.copyright {
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.footer ul {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.footer a {
+  color: #003442;
+}
+
+.social {
+  display: flex;
+  padding: 0 1rem;
+}
+
+.footer h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.links {
+  padding: 0 1rem;
+}
+
+.
